@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(78, 0, 78);
+    color: #ffa500;
+    font-family: "Lucida Console", monospace;
+
+    
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: green;
+}
+img {
+    width: 50%;
+    margin: auto;
+    height: auto;
+    max-height: 15cm;
+}
